@@ -1,0 +1,44 @@
+h1 {
+    color :  red;
+}
+body{
+    color : yellow;
+}
+a{
+    color:red;
+}
+*{
+    border: solid;
+    border-color: antiquewhite;
+    background-color:black;
+}
+.header{
+    background-color:yellowgreen;
+    display: flex;
+    justify-content: center;
+}
+.item1{
+    background-color:lightsalmon;
+    display: flex;
+    justify-content: space-between;
+}
+.item2{
+    background-color:lightseagreen;
+    display: flex;
+    justify-content: space-between;
+}
+.item3{
+    background-color:lightcoral;
+    display: flex;
+    justify-content: space-between;
+}
+.item4{
+    background-color:lightgoldenrodyellow;
+    display: flex;
+    justify-content: space-between;
+}
+.footer{
+    background-color:lightslategrey;
+    display: flex;
+    justify-content: flex-end;
+}
